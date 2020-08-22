@@ -1,4 +1,4 @@
-# Anepokis license
+# Anepokis License
 
 * Web Page: [salifm.com/anepokis-license](https://salifm.com/anepokis-license)
 * GitHub repository: [github.com/salifm/anepokis-license](https://github.com/salifm/anepokis-license)
