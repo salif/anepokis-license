@@ -1,6 +1,6 @@
 # Anepokis License
 
-* Homepage: [salifm.com/anepokis-license](https://salifm.com/anepokis-license)
+* Homepage: [salifm.github.io/anepokis-license](https://salifm.github.io/anepokis-license)
 * Repository: [github.com/salifm/anepokis-license](https://github.com/salifm/anepokis-license)
 
 ### Text of the Anepokis License v. 1.0:
